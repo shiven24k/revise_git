@@ -2,7 +2,7 @@
 
 # Set variables
 MAIN_BRANCH="main"
-FEATURE_BRANCH="your-feature-branch"
+FEATURE_BRANCH="prod-shiven-readme"
 
 # Fetch latest changes
 echo "Fetching latest changes..."
