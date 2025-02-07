@@ -1,18 +1,16 @@
 # The Good Vibers
 
 A brief description of what this project does and who it's for.
-I have added some of the distinct features for the major purpose of our readme file, the project is fully functional,
-and I am so smart blah blah blah, I addded this that and god knows what
+I have added some of the distinct features for the major purpose of our readme file, the project is fully functional.
 
 ## Installation
 
 Note: Check your system config first
 
 1. Clone the repository:
-
-    ```sh
-    git clone https://github.com/your-username/reverse_git.git
-    ```
+   ```sh
+   git clone https://github.com/your-username/reverse_git.git
+   ```
 2. Navigate to the project directory:
    ```sh
    cd your-repository
