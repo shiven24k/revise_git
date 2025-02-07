@@ -1,12 +1,14 @@
-# Project Name
+# The Good Vibers
 
 A brief description of what this project does and who it's for.
 
 ## Installation
 
+Note: Check your system config first
+
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/your-username/reverse_git.git
     ```
 2. Navigate to the project directory:
     ```sh
